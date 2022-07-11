@@ -13,7 +13,7 @@ This project aims to broaden your knowledge of system administration by using Do
 
 1. clone git repo to shared folder in VM (virtual machine)
 
-	In a VM:
+In a VM:
 
 2. go to the shared folder -> open terminal -> drag "commands" file to the terminal -> inside terminal press Enter button
 
@@ -95,9 +95,9 @@ This project aims to broaden your knowledge of system administration by using Do
 
 	go to the localhost:4000
 
-11. check ftp
+In terminal:
 
-	In terminal:
+11. check ftp
 
 	> sudo apt install -y filezilla
 
